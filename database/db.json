@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "name": "Annabelle",
+      "price": "11500",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/poster-peliculas-terror-2019-annabelle-3-1578395572.jpg",
+      "id": 9
+    },
+    {
+      "name": "John Wick 3",
+      "price": "12000",
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-ebfefbf4ede371be0f6f9148ccd4d393_screen.jpg?ts=1698538444",
+      "id": 10
+    },
+    {
+      "name": "Matrix",
+      "price": "10000",
+      "image": "https://im.ziffdavisinternational.com/ign_es/screenshot/default/matrix_c1cf.jpg",
+      "id": 11
+    },
+    {
+      "name": "Star Wars",
+      "price": "11000",
+      "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/KLZMLOXT5RJT3CNSQYQE5P2AYU.jpg",
+      "id": 12
+    },
+    {
+      "name": "Moana",
+      "price": "11500",
+      "image": "https://i.pinimg.com/236x/22/4c/f2/224cf2f702157effec25f8e78def819f.jpg",
+      "id": 13
+    },
+    {
+      "name": "Guardianes de la Galaxia",
+      "price": "12000",
+      "image": "https://myhotposters.com/cdn/shop/products/HP3083_d127ad88-298d-4498-8828-0c636f9b2fae_1024x1024.jpg?v=1571445097",
+      "id": 14
+    },
+    {
+      "name": "Malefica",
+      "price": "9500",
+      "image": "https://es.web.img3.acsta.net/pictures/19/09/17/16/06/5710130.jpg",
+      "id": 15
+    },
+    {
+      "name": "Aladdin",
+      "price": "11500",
+      "image": "https://i.pinimg.com/236x/27/6f/83/276f832b6447f5e0dc3a1b7cfe24a1b5.jpg",
+      "id": 16
+    },
+    {
+      "name": "Titans",
+      "price": "13000",
+      "image": "https://i.pinimg.com/236x/8c/bc/a8/8cbca88cc89f2f8254979217f61816ae.jpg",
+      "id": 17
+    }
+  ]
+}
